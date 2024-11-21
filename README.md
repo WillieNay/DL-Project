@@ -39,9 +39,6 @@ Outputs test loss and accuracy.
 **Digit Classification**:
 Resizes and normalizes the input image.
 
-**Predicts the digit and prints the result**:
-The digit is probably a <digit>
-
 ---
 
 ## Key Functions
